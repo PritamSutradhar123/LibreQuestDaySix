@@ -1,0 +1,22 @@
+[
+null,
+null,
+{"id":2,"expanded":false,"name":"Map 3","order":12,"parentId":0,"scrollX":733.1999999999999,"scrollY":574.8},
+null,
+null,
+{"id":5,"expanded":true,"name":"Map 2","order":1,"parentId":0,"scrollX":927.5999999999999,"scrollY":1142.3999999999999},
+null,
+null,
+{"id":8,"expanded":false,"name":"Map 4","order":7,"parentId":0,"scrollX":733.1999999999999,"scrollY":1992},
+null,
+{"id":10,"expanded":false,"name":"Map 1","order":8,"parentId":0,"scrollX":822,"scrollY":1521.6},
+{"id":11,"expanded":false,"name":"Inn 1F","order":2,"parentId":5,"scrollX":733.1999999999999,"scrollY":532.8},
+{"id":12,"expanded":false,"name":"Item Shop","order":6,"parentId":5,"scrollX":733.1999999999999,"scrollY":408},
+{"id":13,"expanded":false,"name":"Weapon Shop","order":4,"parentId":5,"scrollX":733.1999999999999,"scrollY":408},
+{"id":14,"expanded":false,"name":"Armor Shop","order":5,"parentId":5,"scrollX":733.1999999999999,"scrollY":398.4},
+{"id":15,"expanded":false,"name":"Inn 2F","order":3,"parentId":5,"scrollX":733.1999999999999,"scrollY":488.4},
+{"id":16,"expanded":false,"name":"House 1","order":9,"parentId":10,"scrollX":733.1999999999999,"scrollY":398.4},
+{"id":17,"expanded":false,"name":"House 2","order":11,"parentId":10,"scrollX":742.8,"scrollY":456},
+null,
+{"id":19,"expanded":false,"name":"Abandoned House","order":10,"parentId":10,"scrollX":733.1999999999999,"scrollY":408}
+]
