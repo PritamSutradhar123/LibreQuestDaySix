@@ -140,7 +140,7 @@
                 a = "To store personal data"; b = "To pay or receive money"; c = "To send messages"; d = "To track transactions";
                 ans = 2; break; 
             case 33:
-                q = "Which option should be used to type CO\u20822 to get 2 at its proper place?";
+                q = "Which option should be used to type CO\u2082 to get 2 at its proper place?";
                 a = "Bold"; b = "Underline"; c = "Subscript"; d = "Superscript";
                 ans = 3; break; 
             case 34:
