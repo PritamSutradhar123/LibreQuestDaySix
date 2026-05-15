@@ -47,7 +47,7 @@
             // --- DATA HANDLING & LAYOUTS ---
             case 31: note = "PROCESSOR: A classic Word processor allows individuals to seamlessly compose and edit text files."; break;
             case 32: note = "UPI: A primary operational intent of an integrated UPI QR code is to pay or receive money."; break;
-            case 33: note = "CO\u20822: To place the number '2' at its proper downward index position, choose Subscript."; break;
+            case 33: note = "CO\u2082: To place the number '2' at its proper downward index position, choose Subscript."; break;
             case 34: note = "COMPATIBILITY: Standard multimedia files such as mp3 formats cannot be saved inside Writer."; break;
             case 35: note = "PAGE SETUP: Setting all peripheral margins throughout a file is called Page Setup."; break;
             case 36: note = "SPREADSHEET: Creating complex, dynamic graphic presentations is an operation a spreadsheet cannot do."; break;
